@@ -185,7 +185,7 @@ root.configure(bg="black")
 
 title = tk.Label(
     root,
-    text=">>> CYBER PHISHING DETECTOR <<<",
+    text=">>> SAKSHAM CYBER PHISHING DETECTOR <<<",
     fg="#00FF00",
     bg="black",
     font=("Courier", 16, "bold")
